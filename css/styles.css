@@ -1,5 +1,4 @@
-/*body {
-	background-color: #FF0000;
-}*/
-
-/* Comment goes here */
+#map-container {
+	height: 500px;
+	width: 500px;
+}
